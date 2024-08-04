@@ -1,5 +1,5 @@
 # Image_Captioning
-## CodSoft_taskno_3
+---
 ### GOAL
 Combine computer vision and natural language processing to build
 an image captioning AI. Use pre-trained image recognition models
